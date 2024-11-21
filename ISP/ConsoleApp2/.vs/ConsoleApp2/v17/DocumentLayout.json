@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\teacher\\source\\repos\\consoleapp2\\consoleapp2\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\teacher\\source\\repos\\consoleapp2\\consoleapp2\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\teacher\\source\\repos\\consoleapp2\\consoleapp2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\teacher\\source\\repos\\consoleapp2\\consoleapp2\\iwhinny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\iwhinny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\teacher\\source\\repos\\consoleapp2\\consoleapp2\\ibark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\ibark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\teacher\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\teacher\\source\\repos\\consoleapp2\\consoleapp2\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\teacher\\source\\repos\\consoleapp2\\consoleapp2\\imew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\imew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\teacher\\source\\repos\\consoleapp2\\consoleapp2\\isound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EE3B0-7740-45D1-9C1F-88BEFF6AD682}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\isound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Horse.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Horse.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Horse.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Horse.cs",
+              "RelativeToolTip": "ConsoleApp2\\Horse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:41:07.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Dog.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Dog.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Dog.cs",
+              "RelativeToolTip": "ConsoleApp2\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:40:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Cat.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Cat.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Cat.cs",
+              "RelativeToolTip": "ConsoleApp2\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:40:20.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Animal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Animal.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Animal.cs",
+              "RelativeToolTip": "ConsoleApp2\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:39:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:36:14.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWhinny.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\IWhinny.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\IWhinny.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\IWhinny.cs",
+              "RelativeToolTip": "ConsoleApp2\\IWhinny.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:39:21.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBark.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\IBark.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\IBark.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\IBark.cs",
+              "RelativeToolTip": "ConsoleApp2\\IBark.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:38:53.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMew.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\IMew.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\IMew.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\IMew.cs",
+              "RelativeToolTip": "ConsoleApp2\\IMew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:36:55.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISound.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ISound.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ISound.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ISound.cs",
+              "RelativeToolTip": "ConsoleApp2\\ISound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:36:30.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
